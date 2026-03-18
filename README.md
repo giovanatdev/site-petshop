@@ -2,7 +2,7 @@
 
 Projeto de website desenvolvido para venda de produtos para cães e gatos.
 
-🔗 Acesse o site: ((https://filipesep.github.io/UNI-Pets)
+🔗 Acesse o site: (https://filipesep.github.io/UNI-Pets)
 
 ## 💻 Tecnologias utilizadas
 - HTML
